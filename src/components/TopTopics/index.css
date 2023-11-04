@@ -1,0 +1,9 @@
+.course-card {
+  border-radius: 10px;
+  background-size: cover;
+  width: 150px;
+  margin: 10px;
+  transition: 0.5s ease-in-out;
+  color: white;
+  padding: 10px;
+}

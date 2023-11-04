@@ -1,0 +1,8 @@
+.course-card-cources {
+  margin: 20px;
+  border-radius: 10px;
+  background-color: rgb(242, 241, 248);
+  width: 400px;
+  cursor: pointer;
+  overflow: hidden;
+}
